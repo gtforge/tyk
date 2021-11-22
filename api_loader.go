@@ -10,7 +10,7 @@ import (
 	"time"
 
 	"github.com/TykTechnologies/logrus"
-	"github.com/TykTechnologies/tyk/coprocess"
+	"github.com/gtforge/tyk/coprocess"
 	"github.com/TykTechnologies/tykcommon"
 	"github.com/gorilla/context"
 	"github.com/gorilla/mux"

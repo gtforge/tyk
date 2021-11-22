@@ -10,7 +10,7 @@ import (
 	"github.com/gorilla/context"
 	"github.com/mitchellh/mapstructure"
 
-	"github.com/TykTechnologies/tyk/coprocess"
+	"github.com/gtforge/tyk/coprocess"
 	"github.com/TykTechnologies/tykcommon"
 
 	"bytes"

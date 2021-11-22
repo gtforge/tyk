@@ -10,7 +10,7 @@ import (
 	"errors"
 
 	"github.com/TykTechnologies/logrus"
-	"github.com/TykTechnologies/tyk/coprocess"
+	"github.com/gtforge/tyk/coprocess"
 	"github.com/TykTechnologies/tykcommon"
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"

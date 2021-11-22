@@ -21,7 +21,7 @@ package main
 import "C"
 
 import (
-	"github.com/TykTechnologies/tyk/coprocess"
+	"github.com/gtforge/tyk/coprocess"
 	"github.com/golang/protobuf/proto"
 
 	"encoding/json"

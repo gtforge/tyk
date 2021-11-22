@@ -30,7 +30,7 @@ import (
 	"github.com/facebookgo/pidfile"
 	"github.com/gorilla/mux"
 	"github.com/justinas/alice"
-	"github.com/lonelycode/logrus-graylog-hook"
+	"github.com/gemnasium/logrus-graylog-hook"
 	osin "github.com/lonelycode/osin"
 	"github.com/rs/cors"
 	"rsc.io/letsencrypt"

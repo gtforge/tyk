@@ -39,7 +39,7 @@ import (
 	"strings"
 	"unsafe"
 
-	"github.com/TykTechnologies/tyk/coprocess"
+	"github.com/gtforge/tyk/coprocess"
 	"github.com/golang/protobuf/proto"
 )
 
